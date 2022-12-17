@@ -1,0 +1,138 @@
+KIET Group of Institutions, Delhi-NCR
+Department of Computer Applications
+  (An ISO – 9001: 2008 Certified & ‘A+’ Grade accredited Institution by NAAC)
+
+Programming Lab (KCA – 151)
+List of Practical
+Session – (2022-23)
+
+Practical – 1: Basic Input/Output Operation
+
+1.Program to read two integer and two floating point numbers.
+2.Program to accept the marks of 5 subjects and finds the sum and percentage marks obtained by the student.
+3.Program to calculate the simple interest and compound interest (The Principal, Amount, Rate of Interest and Time are entered through keyboard).
+4.Program to calculate the area and circumference of a circle.
+5.Program that accepts temperature in Centigrade and converts into Fahrenheit using the formula C/5 = (F-32)/9.
+6.Program that swaps values of two variables using a third variable.
+7.Program that swaps the values of two variables without using a 3rd variable.
+8.Program to calculate and print the area of triangle, where the three sides of the triangle is given as input.
+
+Practical – 2: Program to implement conditional statements 
+
+1.Program that checks whether the two numbers entered by the user are equal or not.
+2.Program to find the greatest of three numbers.
+3.Program to find whether a given number is even or odd.
+4.Program that tells whether a given year is leap year or not.
+5.The working hours based on age of the laborer is given
+Age			Working Hour
+0-10			0
+11-15			0
+16-20			3
+21-25			6
+>25			8
+	Write a program to calculate working hour of a person for a given age.
+
+6.Program to find the roots of a quadratic equation.
+7.WAP to print the given number is even or odd using “conditional operator”.
+
+
+Practical – 3: Program to implement switch-case statement
+
+1.Write a Program to read two numbers and an operator (+, -, *, /) which performs the specified operation and display the result
+2.Write a program to display the color name according to the code entered. The coding scheme is as follows 
+ 1: “RED”
+ 2: “GREEN”
+ 3: “WHITE”
+ 4: “YELLOW”
+ 5: “ORANGE”
+3.User is going to enter a value from 1 to 12. Month name should be displayed accordingly like 1 – January, 2 – February etc. Write a program for the same.
+4.User is going to enter a value from 1 to 7. day of the week should be displayed accordingly like 1 – Monday, 2 – Tuesday etc. Write a program for the same.
+
+
+Practical – 4: Program to implement Looping Constructs
+
+1.Program to display the first N numbers.
+2.Program to print the sum of all numbers up to a given number.
+3.Program to find the factorial of a given number.
+4.Program to print sum of even and odd numbers from 1 to N numbers.
+5.Program to print the Fibonacci series.
+6.Program to check whether the entered number is prime or not.
+7.Program to find the sum of digits of the entered number.
+8.Program to find the reverse of a number.
+9.Program to print Armstrong numbers between two intervals.
+10.Write a program to print the pattern
+1
+12
+1	2	3
+1	2	3	4
+
+11.Write a program in C to display table of number 1 to 10 using nested loop
+
+Practical – 5: Program to implement One-Dimensional Array
+
+1.Program that simply takes elements of the array from the user and finds the sum of these elements.
+2.Program that inputs two arrays and saves sum of corresponding elements of these arrays in a third array and prints them.
+3.Program to find the minimum and maximum element of the array.
+4.Program to search an element in a array using Linear Search.
+5.Program to sort the elements of the array in ascending order using Bubble Sort technique.
+6.Program to print the elements of the array in reverse order.
+7.Write a program to find the sum of even numbers in the array.
+
+Practical – 6: Program to implement Two-Dimensional Array
+
+1.Write a program in C to enter some value in 2D array and display it using any loop
+2.Program to add and multiply two matrices of order n x n
+3.Program that finds the sum of diagonal elements of a m x n matrix.
+4.Program to find the transpose of a matrix.
+5.Program to find the row sum and the column sum of a matrix of order m x n.
+
+Practical – 7: Program to implement User Defined Function and string manipulation functions.
+
+1.Write a function named Swap, which will swap the values of two variables. (Use the concept of call by value).
+2.Write a function named CheckPrime, which will check an input number is prime or not.
+3.Program to implement strlen (), strcat (),strcpy () using the concept of Functions.
+4.Write a function named GetMax, that will find the maximum among array of numbers.
+5.Write a program to check whether the entered string is palindrome or not.
+
+
+Practical – 8: Program to implement Structure and Union
+
+1.Write C program to create, declare and initialize structure.
+2.Write C program to read and print an employee's detail using structure.
+3.Write C program to demonstrate example of nested structure.
+4.Write C program to demonstrate example structure pointer (structure with pointer).
+5.Write C program to declare, initialize a union, example of union.
+6.Write C program to demonstrate example of array of structures.
+1.Define a structure data type named student containing the following details
+Name, roll, marks of 3 subjects. Write a program to perform the following tasks
+i)Calculate the total marks & % of the students
+ii)Display the student details
+
+Practical – 9: Program to implement pointer
+1.Write a C program to create, initialize and use pointers.
+2.Write a program to implement the function interchange to swap the values of two variables (call by reference).
+3.Write a C program to add two numbers using pointers.
+4.Write a C program to input and print array elements using pointer.
+5.Write a C program to search an element in array using pointers.
+Practical – 10: Program to implement Storage Class
+
+1.Write C program to illustrate the properties of a static variable.
+2.Write C program to illustrate the properties of an auto variable.
+3.Write C program to illustrate the properties of an extern variable.
+4.Write C program to illustrate the properties of a register variable.
+Practical – 11: Program to implement Dynamic Memory Allocation & File Handling Operations
+
+1.Write a program to copy the content of one file into another
+2.Write a program to count the number of words and number of characters in a file.
+3.Write a program to implement malloc().
+4.Write a program to implement calloc().
+
+Practical 12: Program to implement Graphical Operations
+1.Write C program to draw line.
+2.Write C program to draw circle.
+3.Write C program to draw rectangle. 
+4.Write C program to move circle one location to another on pressing enter key. 
+5.Write C program to draw 10 concentric circles.
+
+Rabi Narayan Panda					Dr. Arun Kumar Tripathi
+(Subject Teacher)							(HOD)
